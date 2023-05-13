@@ -1,1 +1,2 @@
-# ok_python_intro
+# Python nodarbības
+Autors:OK
