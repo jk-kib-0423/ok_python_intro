@@ -1,0 +1,1 @@
+print("Ko Saulīte gauži raud,\n  Ik vakaru noiedama?\n   Zelta josta iekritusi\n    Dziļas jūras dibenā.\n")
