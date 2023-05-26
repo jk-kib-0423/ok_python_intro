@@ -35,7 +35,7 @@ brilles = True
 print(brilles)
 print(type(brilles)) #datu tips - bool var saturēt vērtību True vai False
 
-tips = -
+tips = kk
 Tips = gg #dažādie manīgie
 
 help("keywords") #python rezervētie vārdie, kurus nevar izmantot ka mainīgā nosaukums (reģistra jūtīgie)
